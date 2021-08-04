@@ -22,6 +22,12 @@ gem 'jbuilder', '~> 2.7'
 # Use Active Model has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
+# Devise (Authentication)
+gem 'devise'
+
+# Awesome Print - Better display for console
+gem 'awesome_print'
+
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
 
